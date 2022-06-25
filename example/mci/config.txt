@@ -1,0 +1,7 @@
+receptor=2OH4A_receptor.pdb
+center_x=39.737
+center_y=32.627
+center_z=12.883
+size_x=17.107
+size_y=26.740
+size_z=13.905
