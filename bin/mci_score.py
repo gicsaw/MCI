@@ -44,7 +44,7 @@ def main():
         print('error mciscore_receptor and pf_receptor are None')
         sys.exit()
 
-    pharma = mcifinder.set_mcfinder(args)
+    pharma = mcifinder.set_mcifinder(args)
     use_mcinfo = pharma.use_mcinfo
 
     ligand_file = args.ligand_file
